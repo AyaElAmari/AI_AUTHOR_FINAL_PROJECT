@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  backend:
+    build:
+      context: ./FastAPI_OpenAI
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build:
+      context: ./AI_Author_ReactJS
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
