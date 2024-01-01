@@ -12,5 +12,4 @@ services:
       context: ./AI_Author_ReactJS
     ports:
       - "3000:3000"
-    depends_on:
-      - backend
+ 
