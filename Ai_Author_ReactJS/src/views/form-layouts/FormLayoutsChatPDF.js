@@ -14,8 +14,9 @@ const FormLayoutsChatPDF = ({ onCheck, loading, result }) => {
   const [pdfUrl, setPdfUrl] = useState(null)
 
   const getTextFromPdf = event => {
-    var formData = new FormData()
-    formData.append('file', event.target.files[0])
+    var formData = new FormData();
+    formData.append('file', event.target.files[0]);
+    
     axios
       .post('http://localhost:8000/uploadpdf', formData, {
         headers: {
@@ -23,13 +24,15 @@ const FormLayoutsChatPDF = ({ onCheck, loading, result }) => {
         }
       })
       .then(res => {
-        setText(res.data.text)
-        setPdfUrl(URL.createObjectURL(event.target.files[0])) // Set the PDF URL for display
+        // Extract only the first 4097 tokens from the text
+        const truncatedText = res.data.text.substring(0, 4097);
+        setText(truncatedText);
+        setPdfUrl(URL.createObjectURL(event.target.files[0])); // Set the PDF URL for display
       })
       .catch(error => {
-        console.log('error', error)
-      })
-  }
+        console.log('error', error);
+      });
+  };
   const composeRequest = () => {
     onCheck(`Use this text '${text}' to answer this question '${question}'`)
   }
