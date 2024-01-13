@@ -2,7 +2,9 @@
 
 Welcome to AI AUTHOR, an innovative tool designed to revolutionize the process of scientific writing. This platform seamlessly integrates cutting-edge technologies, including OpenAI's ChatGPT, FastAPI, and ReactJS, to offer a comprehensive solution for researchers, students, and scientific writers.
 
-![Project logo](https://github.com/AyaElAmari/AI_AUTHOR_FINAL_PROJECT/blob/main/AI_AUTHOR-logo.png)
+<p align="center">
+  <img src="https://github.com/AyaElAmari/AI_AUTHOR_FINAL_PROJECT/blob/main/AI_AUTHOR-logo.png" alt="Project logo" height="100px">
+</p>
 
 ## System Architecture and Communication Flow
 
@@ -20,7 +22,9 @@ Users interact with the frontend, initiating requests for linguistic analysis or
 
 This modular architecture ensures efficiency and responsiveness, offering a robust platform for linguistic analysis and text generation. Explore the repository for installation instructions and detailed documentation.
 
-![Project Architecture](https://github.com/AyaElAmari/AI_AUTHOR_FINAL_PROJECT/blob/main/architecture_AI_Author.png)
+<p align="center">
+  <img src="https://github.com/AyaElAmari/AI_AUTHOR_FINAL_PROJECT/blob/main/architecture_AI_Author.png" alt="Project Architecture" height="600px">
+</p>
 
 ## Link to Video Demo
 
