@@ -1,3 +1,9 @@
+# AI Author: A Scientific Text Writing Tool Based on ChatGPT APIs
+
+Welcome to AI AUTHOR, an innovative tool designed to revolutionize the process of scientific writing. This platform seamlessly integrates cutting-edge technologies, including OpenAI's ChatGPT, FastAPI, and ReactJS, to offer a comprehensive solution for researchers, students, and scientific writers.
+
+![Project logo](https://github.com/AyaElAmari/AI_AUTHOR_FINAL_PROJECT/blob/main/AI_AUTHOR-logo.png)
+
 ## System Architecture and Communication Flow
 
 AI AUTHOR is built on a modular architecture that facilitates seamless communication between its key components. The OpenAI service (main.py) interfaces with OpenAI's ChatGPT API for linguistic analysis and text generation. This service communicates with the FastAPI-based REST API (restapifastapi), acting as a bridge between the frontend and the OpenAI service. Uvicorn serves as the ASGI server, handling HTTP requests and directing them to the FastAPI application.
