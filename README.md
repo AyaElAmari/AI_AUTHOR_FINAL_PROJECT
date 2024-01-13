@@ -10,4 +10,23 @@ This modular architecture ensures efficiency and responsiveness, offering a robu
 
 ## Link to Video Demo
 
+## Video Demo
+
+Explore the powerful features of AI AUTHOR in action through our comprehensive video demo. See how AI AUTHOR transforms the scientific writing experience for researchers, students, and scientific writers. The demo showcases key functionalities, including:
+
+- **Article Generation:** Effortlessly create high-quality scientific articles, providing a swift and efficient solution for authors.
+  
+- **ChatPDF:** Seamlessly upload a PDF file, pose specific questions, and receive detailed information directly extracted from the document, adding an interactive dimension to the research process.
+
+- **Grammatical Correction:** Witness how AI AUTHOR excels in identifying and rectifying grammatical errors within texts, ensuring the final output meets the highest standards of academic writing.
+
+- **Vocabulary Enhancement Assistance:** Explore intelligent suggestions that enrich the vocabulary used in texts, fostering more nuanced and precise expression.
+
+- **Text Summarization:** Experience AI AUTHOR's capability to generate concise summaries while preserving the essence of the original content, facilitating efficient information extraction and comprehension.
+
+- **Translation Functionality:** See the precise translation capabilities in action, facilitating the conversion of texts into English and promoting effective interlinguistic communication in academic and research contexts.
+
+This video provides a firsthand look at how AI AUTHOR serves as a comprehensive and indispensable tool for enhancing the scientific writing experience. Watch now to discover the transformative potential of our platform.
+
+
 [Link to Video Demo](https://drive.google.com/file/d/1YV13-MRoontcunXIbTmx0Xpa_E-Bb5q8/view?usp=drive_link)
