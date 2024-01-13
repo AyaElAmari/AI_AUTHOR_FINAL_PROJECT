@@ -10,8 +10,6 @@ This modular architecture ensures efficiency and responsiveness, offering a robu
 
 ## Link to Video Demo
 
-## Video Demo
-
 Explore the powerful features of AI AUTHOR in action through our comprehensive video demo. See how AI AUTHOR transforms the scientific writing experience for researchers, students, and scientific writers. The demo showcases key functionalities, including:
 
 - **Article Generation:** Effortlessly create high-quality scientific articles, providing a swift and efficient solution for authors.
