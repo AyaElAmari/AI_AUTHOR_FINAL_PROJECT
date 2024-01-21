@@ -1,6 +1,6 @@
 # AI Author: A Scientific Text Writing Tool Based on ChatGPT APIs
 
-Welcome to AI AUTHOR, an innovative tool designed to revolutionize the process of scientific writing. This platform seamlessly integrates cutting-edge technologies, including OpenAI's ChatGPT, FastAPI, and ReactJS, to offer a comprehensive solution for researchers, students, and scientific writers.
+Welcome to AI AUTHOR, an innovative tool designed to revolutionize the process of scientific writing. This platform seamlessly integrates cutting-edge technologies, including OpenAI's ChatGPT API, FastAPI, and ReactJS, to offer a comprehensive solution for researchers, students, and scientific writers.
 
 <p align="center">
   <img src="https://github.com/AyaElAmari/AI_AUTHOR_FINAL_PROJECT/blob/main/AI_AUTHOR-logo.png" alt="Project logo" height="100px">
